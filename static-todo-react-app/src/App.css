@@ -1,0 +1,20 @@
+.profile-label {
+  margin-left: 25px;
+  padding-right: 10px;
+}
+
+.profile-card {
+  padding: 10px 5px;
+  border: 1px solid;
+  margin-bottom: 5px;
+}
+
+.profile-value {
+  font-style: italic;
+}
+.age-value{
+  color: #0fb3e1f5;
+}
+body{
+  background-color: rgb(1, 1, 50);
+}
